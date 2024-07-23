@@ -16,29 +16,48 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Joseph Monakedi**
+- **Date: 23/07/2024**
+- **Current Role/Position:Student**
+- **Field of Interest:Software_Development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    My Current Skills
+    - Html and CSS
+    - git
+    SKills i need to improve
+    - CSS layout and responsive design
+    - time management
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    Key Interests
+    - Web development
+    - Machine learning
+    - Data science
+    Important values in a work invironment.
+    - communication
+    - growth opportunities
+    - respect
+    - work life balance
+
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
-2. **Alignment with Personal Profile**:
+   Roles i have researched.
+    - Machine Learning Engineer
+    - Data Scientist
+    - Full-Stack Web Developer
+    - Database Administrator
+    
+   Areas that piqued my interest.
+    - Machine learning
+    - computer vision
+3. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
     - Identify any gaps or areas for further exploration.
@@ -47,34 +66,35 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Complete CodeSpace Software Development course
+    - Get an entry level Software developmet job
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Get Computer Science Degree
+    - Work with Machine Learning and applications in E-commerce sites
+
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Complete all Course work
+    - Use all available learning material such as Youtube,Freecodecamp,w2school and theodinproject
+    - learn from peers and coaches
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Apply for part time course while working.
+    - will need funding and time
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Will need to be wary of burnout and work life balance
+    
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+   .
 
 ### Submission
 
