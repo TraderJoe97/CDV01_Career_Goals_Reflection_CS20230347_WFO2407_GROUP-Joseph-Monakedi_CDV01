@@ -43,16 +43,18 @@
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
+     - Full-stack web developer
+     - Machine learning Enginer
+     - Data scientist
     
      Industries or roles I have researched.
      - Data scientist
      - Product manager
-     - Technical writer
      - Front-end developer
      - Software engineer
      - DevOps engineer
     
-2. **Alignment with Personal Profile**:
+3. **Alignment with Personal Profile**:
     
 As a budding software developer, I'm excited to explore roles and industries that align with my skills and knowledge, providing a solid foundation for a successful career in tech. With a strong foundation in HTML, CSS, and JavaScript, I'm well-positioned to excel as a junior front-end developer. I'm particularly drawn to organizations that prioritize innovation and work-life balance, as these values are essential to my continuous growth and development as a software developer. By joining a company that shares these values, I'll be empowered to succeed, learn, and make a meaningful impact in the tech industry.
     
@@ -68,7 +70,8 @@ As a budding software developer, I'm excited to explore roles and industries tha
 2. **Long-term Goals** (3-5 years and beyond):    
    
      -  Get a permanant job.
-     -  Be one of the biggest software development im the country.
+     -  be the best Software engineer
+     -  Get a computer science degree.
     
 
 ### Part 4: Action Plan
